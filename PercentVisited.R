@@ -2,7 +2,7 @@ library("ggplot2")
 library("dplyr")
 
 files<-list.files("./FluViewPhase2Data/VisitData/",pattern="*csv", full.names=T)
-files
+
 n <- length(files)
 
 # make a list of dataframes

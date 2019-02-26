@@ -26,7 +26,7 @@ class(xticks)
 
 new_df <- clData[, c("PERCENT.POSITIVE", "PERCENT.A", "PERCENT.B")]
 new_df$category <- xticks
-new_df$variable <- rep("null", 19)
+new_df$variable <- rep("null", count(new_df))
 
 ggplot(
   data = mPositiveData,
