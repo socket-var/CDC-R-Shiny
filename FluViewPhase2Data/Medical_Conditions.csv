@@ -1,0 +1,46 @@
+Medical Conditions Breakdown by Season (data downloaded on 2/20/2019),,,,,,,
+SEASON,MEDICAL CONDITION,CHILDREN-COUNT,CHILDREN-PERCENT(%),ADULTS-COUNT,ADULTS-PERCENT(%),FEMALES (15-44 YR)-COUNT,FEMALES (15-44 YR)-PERCENT(%)
+2015-16,Asthma,260,21.8,1598,21,N/A,N/A
+2016-17,Asthma,388,29.2,3152,20,N/A,N/A
+2017-18,Asthma,XX,27.1,XX,19.1,XX,N/A
+2018-19,Asthma,44,20.9,198,20.4,N/A,N/A
+2015-16,Cardiovascular disease,104,8.7,3097,40.8,N/A,N/A
+2016-17,Cardiovascular disease,116,8.7,8322,52.7,N/A,N/A
+2017-18,Cardiovascular disease,XX,8.4,XX,51.5,XX,N/A
+2018-19,Cardiovascular disease,16,7.6,380,39.1,N/A,N/A
+2015-16,Chronic lung disease,83,7,2297,30.2,N/A,N/A
+2016-17,Chronic lung disease,108,8.1,4714,29.9,N/A,N/A
+2017-18,Chronic lung disease,XX,6.5,XX,29.7,XX,N/A
+2018-19,Chronic lung disease,7,3.3,260,26.7,N/A,N/A
+2015-16,Immune suppression,94,7.9,1356,17.8,N/A,N/A
+2016-17,Immune suppression,136,10.2,2750,17.4,N/A,N/A
+2017-18,Immune suppression,XX,8.2,XX,17.7,XX,N/A
+2018-19,Immune suppression,9,4.3,162,16.7,N/A,N/A
+2015-16,Metabolic disorder,46,3.9,2964,39,N/A,N/A
+2016-17,Metabolic disorder,80,6,7060,44.7,N/A,N/A
+2017-18,Metabolic disorder,XX,4.7,XX,44.6,XX,N/A
+2018-19,Metabolic disorder,7,3.3,386,39.7,N/A,N/A
+2015-16,Neurologic disorder,179,15,1413,18.6,N/A,N/A
+2016-17,Neurologic disorder,274,20.6,3850,24.4,N/A,N/A
+2017-18,Neurologic disorder,XX,17.2,XX,20.4,XX,N/A
+2018-19,Neurologic disorder,19,9,141,14.5,N/A,N/A
+2015-16,Neuromuscular disorder,33,2.8,423,5.6,N/A,N/A
+2016-17,Neuromuscular disorder,49,3.7,1243,7.9,N/A,N/A
+2017-18,Neuromuscular disorder,XX,3.6,XX,5,XX,N/A
+2018-19,Neuromuscular disorder,3,1.4,39,4,N/A,N/A
+2015-16,Obesity,98,8.2,3089,40.7,N/A,N/A
+2016-17,Obesity,139,9.7,5440,33.9,N/A,N/A
+2017-18,Obesity,XX,10.4,XX,35.8,XX,N/A
+2018-19,Obesity,27,12.5,409,40.5,N/A,N/A
+2015-16,Pregnancy,N/A,N/A,N/A,N/A,244,25.5
+2016-17,Pregnancy,N/A,N/A,N/A,N/A,320,29.4
+2017-18,Pregnancy,XX,N/A,XX,N/A,XX,28.1
+2018-19,Pregnancy,N/A,N/A,N/A,N/A,28,16.7
+2015-16,Renal disease,25,2.1,1347,17.7,N/A,N/A
+2016-17,Renal disease,32,2.4,3698,23.4,N/A,N/A
+2017-18,Renal disease,XX,2.2,XX,21.8,XX,N/A
+2018-19,Renal disease,3,1.4,178,18.3,N/A,N/A
+2015-16,No known condition,588,49.3,620,8.2,N/A,N/A
+2016-17,No known condition,589,41.1,1006,6.3,N/A,N/A
+2017-18,No known condition,XX,42.2,XX,6.7,XX,N/A
+2018-19,No known condition,118,57.3,93,9.3,N/A,N/A
