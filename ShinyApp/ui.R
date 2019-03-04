@@ -10,17 +10,17 @@ navbarPage("Flu heatmap analysis",
       )
   ),
   tabPanel("CDC vs twitter",
-    sidebarLayout(
-      sidebarPanel(
-        radioButtons("plotType", "Plot type",
-          c("Keyword: All"="all_tweets.png", "Keyword: Flu"="keyword_flu.png", "Keyword: Influenza"="keyword_influenza.png" )
-        )
-      ),
       mainPanel( 
-        plotOutput("plot3", width="800px", height="600px"),
-        plotOutput("plot2", width="800px", height="600px")
+        div(
+          radioButtons("plotType", "Filter by keyword:",
+          c("Keyword: All"="all_tweets.png", "Keyword: Flu"="keyword_flu.png", "Keyword: Influenza"="keyword_influenza.png" )
+          )
+        ),
+        fluidRow(
+          column(6,plotOutput('plot3')),
+          column(6,plotOutput('plot2'))
+        ), width="100%"
       )
     )
   )
-)
 
